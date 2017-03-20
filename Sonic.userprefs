@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C5EBCDCA-F3D5-41FD-8C9C-9172CF4C1B15}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sonic/Tests.cs">
+    <Files>
+      <File FileName="Sonic/AppInitializer.cs" Line="32" Column="5" />
+      <File FileName="Sonic/Tests.cs" Line="37" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sonic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
